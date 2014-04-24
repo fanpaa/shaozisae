@@ -1,0 +1,36 @@
+<extend name="Public:base" />
+<block name="title"><title>detail</title></block>
+<block name="container">
+    <div class="container row">
+        <div class="span12">
+            <img src="/img/logo.png">
+        </div>
+        <div>
+            <div class="viewad">
+                <h2 class="viewad-title">
+                    {$list['title']}
+                </h2>
+                <div class="viewad-info">
+                    <a target="_blank" href="#">{$list['address']}</a>
+                    <span>&nbsp;-&nbsp;</span>
+                    <a target="_blank" href="#">{$list['detailaddress']}</a>
+                </div>
+            </div>
+            <div class="medi">
+                {$list['phone']}
+            </div>
+            <div class="viewad-descript">
+                <div class="typo-p textwrap">
+                    <span>{$list['pay']}</span>，<span>{$list['company']}</span>
+                </div>
+                <div class="typo-p textwrap">
+                    <pre>{$list['content']}</pre>
+                </div>
+            </div>
+            <div class="viewad-meta">
+                {$list['date']}
+            </div>
+        </div>
+    </div>
+</div>
+</block>

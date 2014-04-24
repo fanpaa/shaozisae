@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Bootstrap -->
+	<link href="http://cdn.staticfile.org/twitter-bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/css/todc-bootstrap.css">
+	<style type="text/css">
+	body{background-image: url("/img/code.jpg");
+	background-repeat:round;
+	background-attachment:fixed;
+	background-size:cover;
+	text-align: center;}
+	.Wrapper {
+		background-color: #D0D0D0;
+		background-image: url("/img/shadow.png"), url("/img/bg_grid.png");
+		background-repeat: repeat-x, repeat;
+		text-align: center;
+	}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row-fluid">
+			<div class="span2" style="background-color: #FFFFFF;border-radius:3px;">
+				<div><a href="{:U('Admin/dashboard?query=user')}">用户信息</a></div>
+				<div><a href="{:U('Admin/dashboard?query=student')}">学生信息</a></div>
+				<div><a href="{:U('Admin/dashboard?query=company')}">企业信息</a></div>
+				<div><a href="{:U('Admin/dashboard?query=article')}">已发布信息</a></div>
+			</div>
+			<div class="span10" style="background-color: #FFFFFF;border-radius:3px;">
+				<table class="table table-bordered table-hover table-striped">
+
+						<volist name="data" id="vo"><tr><td>{$vo.username}</td><td>{$vo.permission}</td><td>{$vo.jifen}</td><td>{$vo.signtime}</td><td>{$vo.date}</td></tr></volist>
+
+				</table>
+
+			</div>
+		</div>
+	</div>
+
+
+	<script src="http://cdn.staticfile.org/jquery/1.10.2/jquery.min.js" type="text/javascript">
+	</script>
+	<script src="http://cdn.staticfile.org/twitter-bootstrap/2.3.2/js/bootstrap.min.js" type="text/javascript">
+	</script>
+</body>
+</html>

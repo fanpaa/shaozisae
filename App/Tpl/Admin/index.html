@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Bootstrap -->
+	<link href="http://cdn.staticfile.org/twitter-bootstrap/2.3.2/css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/css/todc-bootstrap.css">
+	<style type="text/css">
+	body{background-image: url("/img/code.jpg");
+	background-repeat:round;
+	background-attachment:fixed;
+	background-size:cover;
+	text-align: center;}
+	</style>
+</head>
+<body><div class="container">
+	<div class="container-fluid">
+  <div class="row-fluid">
+    <div class="span2">
+      <!--Sidebar content-->
+    </div>
+    <div class="span10">
+      <!--Body content-->
+    </div>
+  </div>
+</div></div>
+
+ 
+<!-- Modal -->
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <h3 id="myModalLabel">Administrator</h3>
+  </div>
+  <div class="modal-body">
+    <form class="form-inline" method="post" action="{:U('Admin/login')}">
+  <input type="text" class="input-small" placeholder="Username" name="username">
+  <input type="password" class="input-small" placeholder="Password" name="pwd">
+  <button type="submit" class="btn">Sign in</button>
+</form>
+  </div>
+</div>
+	<script src="http://cdn.staticfile.org/jquery/1.10.2/jquery.min.js" type="text/javascript">
+	</script>
+	<script src="http://cdn.staticfile.org/twitter-bootstrap/2.3.2/js/bootstrap.min.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	$(function(){
+		$('#myModal').modal({
+			  keyboard: false,
+			  backdrop: false,
+			  show:true
+			})
+		//$('#myModal').modal('show')
+	})
+	</script>
+</body>
+</html>

@@ -1,0 +1,163 @@
+<extend name="Public:base" />
+<block name="title"><title>publish</title></block>
+<block name="container">
+    <div class="container row">
+        <div class="span12">
+            <img src="/img/logo.png">
+        </div>
+        <div>
+            <form class="form-horizontal" method="post" action="__URL__/add">
+                <div class="control-group">
+                    <label class="control-label" for="inputTitle">标题：</label>
+                    <div class="controls">
+                        <input type="text" id="inputTitle" placeholder="" name="title">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputCategory">分类：</label>
+                    <div class="controls">
+                        <select id="inputCategory" placeholder="" name="category">
+                            <option value="学生兼职">学生兼职</option>
+                            <option value="模特">模特</option>
+                            <option value="礼仪小姐">礼仪小姐</option>
+                            <option value="摄影师">摄影师</option>
+                            <option value="钟点工">钟点工</option>
+                            <option value="促销员">促销员</option>
+                            <option value="传单派发">传单派发</option>
+                            <option value="问卷调查">问卷调查</option>
+                            <option value="手工制作">手工制作</option>
+                            <option value="网站建设">网站建设</option>
+                            <option value="设计制作">设计制作</option>
+                            <option value="家教">家教</option>
+                            <option value="会计">会计</option>
+                            <option value="翻译">翻译</option>
+                            <option value="实习生">实习生</option>
+                            <option value="酒吧KTV">酒吧KTV</option>
+                            <option value="服务员">服务员</option>
+                            <option value="销售">销售</option>
+                            <option value="其他兼职">其他兼职</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputPay">工资：</label>
+                    <div class="controls">
+                        <input type="text" id="inputPay" placeholder="" name="pay"><span> 元/天</span>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputContent">描述：</label>
+                    <div class="controls">
+                        <textarea id="inputContent" name="content" rows="9" class="input-block-level input-xxlarge">
+                        </textarea>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputPhoto">上传照片：</label>
+                    <div class="controls"></div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputCompany">公司名称：</label>
+                    <div class="controls">
+                        <input type="text" id="inputCompany" placeholder="" name="company">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputAddress">工作地点：</label>
+                    <div class="controls">
+                        <select id="inputAddress" placeholder="" name="address" class="input-medium">
+                            <option value="">
+                            </option>
+                            <option disabled="disabled">----选择大学城----</option>
+                            <option value="松江大学园区">松江大学园区</option>
+                            <option value="杨浦大学园区">杨浦大学园区</option>
+                            <option value="闵行大学园区">闵行大学园区</option>
+                            <option value="奉贤大学园区">奉贤大学园区</option>
+                            <option value="临港大学园区">临港大学园区</option>
+                            <option value="金桥大学园区">金桥大学园区</option>
+                            <option value="南汇大学园区">南汇大学园区</option>
+                            <option value="上海大学园区">上海大学园区</option>
+                            <option value="张江大学园区">张江大学园区</option>
+                            <option disabled="disabled">----选择地区----</option>
+                            <option value="黄浦">
+                                黄浦
+                            </option>
+                            <option value="静安">
+                                静安
+                            </option>
+                            <option value="卢湾">
+                                卢湾
+                            </option>
+                            <option value="徐汇">
+                                徐汇
+                            </option>
+                            <option value="长宁">
+                                长宁
+                            </option>
+                            <option value="闸北">
+                                闸北
+                            </option>
+                            <option value="普陀">
+                                普陀
+                            </option>
+                            <option value="虹口">
+                                虹口
+                            </option>
+                            <option value="杨浦">
+                                杨浦
+                            </option>
+                            <option value="浦东新区">
+                                浦东新区
+                            </option>
+                            <option value="闵行">
+                                闵行
+                            </option>
+                            <option value="松江">
+                                松江
+                            </option>
+                            <option value="宝山">
+                                宝山
+                            </option>
+                            <option value="嘉定">
+                                嘉定
+                            </option>
+                            <option value="青浦">
+                                青浦
+                            </option>
+                            <option value="奉贤">
+                                奉贤
+                            </option>
+                            <option value="南汇">
+                                南汇
+                            </option>
+                            <option value="金山">
+                                金山
+                            </option>
+                            <option value="崇明">
+                                崇明
+                            </option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls">
+                        <input type="text" id="inputDetailAddress" placeholder="" name="detailaddress">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label class="control-label" for="inputPhone">联系电话：</label>
+                    <div class="controls">
+                        <input type="text" id="inputPhone" placeholder="" name="phone">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls">
+                        <button type="submit" class="btn btn-primary">免费注册并发布</button> <button type="button" class="btn">取消</button>
+                    </div>
+                </div>
+                <input type="hidden"  placeholder="" name="publishuser" value="{$usr}">
+            </form>
+        </div>
+    </div>
+</div>
+</block>

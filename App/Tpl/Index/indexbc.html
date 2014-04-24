@@ -1,0 +1,124 @@
+<extend name="Public:base" />
+<block name="title"><title>index</title></block>
+<block name="navLogin">
+    <li>
+        <a href="#myReg" data-toggle="modal">注册</a>
+    </li>
+    <li class="divider-vertical"></li>
+    <li>
+        <a href="#myReg" data-toggle="modal">用户XXX</a>
+    </li>
+    <li class="divider-vertical"></li>
+    <li>
+        <a href="{:U('Index/logout')}">登出</a>
+    </li>
+</block>
+<block name="container">
+    <div class="container row">
+        <div class="span12">
+            <img src="/img/logo.png">
+        </div>
+
+
+        <div class="row">
+            <div class="span3">
+                <div>
+                    <form class="form-search">
+                        <input type="text" class="input-small"> <button type="submit" class="btn">查找</button>
+                    </form>
+                </div>
+                <div>
+                    <dl class="sidebar-filter">
+                        <dt>
+                            筛选
+                        </dt>
+                        <dd>
+                            派发/促销
+                        </dd>
+                        <dd>
+                            家教/老师
+                        </dd>
+                        <dd>
+                            餐厅/服务员
+                        </dd>
+                        <dd>
+                            模特/礼仪
+                        </dd>
+                        <dd>
+                            网站/设计
+                        </dd>
+                        <dd>
+                            会计/财务
+                        </dd>
+                        <dd>
+                            其他兼职
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+            <div class="span9">
+                <ul class="inline new-info">
+                    <li><strong class="strong-style">全上海</strong></li>
+                    <li><a rel="" href="/jianzhi/m7264/">黄浦</a></li>
+                    <li><a rel="" href="/jianzhi/m7263/">静安</a></li>
+                    <li><a rel="" href="/jianzhi/m7262/">卢湾</a></li>
+                    <li><a rel="" href="/jianzhi/m7261/">徐汇</a></li>
+                    <li><a rel="" href="/jianzhi/m7260/">长宁</a></li>
+                    <li><a rel="" href="/jianzhi/m7259/">闸北</a></li>
+                    <li><a rel="" href="/jianzhi/m7258/">普陀</a></li>
+                    <li><a rel="" href="/jianzhi/m7257/">虹口</a></li>
+                    <li><a rel="" href="/jianzhi/m7256/">杨浦</a></li>
+                    <li><a rel="" href="/jianzhi/m7255/">浦东新区</a></li>
+                    <li><a rel="" href="/jianzhi/m7254/">闵行</a></li>
+                    <li><a rel="" href="/jianzhi/m7253/">松江</a></li>
+                    <li><a rel="" href="/jianzhi/m7252/">宝山</a></li>
+                    <li><a rel="" href="/jianzhi/m7251/">嘉定</a></li>
+                    <li><a rel="" href="/jianzhi/m7250/">青浦</a></li>
+                    <li><a rel="" href="/jianzhi/m7249/">奉贤</a></li>
+                    <li><a rel="" href="/jianzhi/m7248/">南汇</a></li>
+                    <li><a rel="" href="/jianzhi/m7247/">金山</a></li>
+                    <li><a rel="" href="/jianzhi/m7246/">崇明</a></li>
+                </li>
+            </ul>
+            <h5 class="new-info">
+                赞助商链接
+            </h5>
+            <div>
+                <ul class="inline">
+                    <li><img  title="全国高校毕业生夏季招聘月" src="http://u.img.huxiu.com/portal/201308/22/191123opp3f11kyx9yuuro.jpg.thumb.jpg"></li>
+                    <li><img  title="全国高校毕业生夏季招聘月" src="http://u.img.huxiu.com/portal/201308/22/184055gl5bgg45vk5b51m4.jpg.thumb.jpg"></li>
+                    <li><img  title="玛氏-箭牌2013创意策划大赛" src="http://u.img.huxiu.com/portal/201308/22/111747sw06wln0swi9eelq.jpg.thumb.jpg"></li>
+                    <li><img  src="http://u.img.huxiu.com/portal/201308/22/100158l9z9a7cj9d7rraey.jpg.thumb.jpg"></li>
+                    <li><img  title="EMC2013爱存储在线知识竞赛" src="http://u.img.huxiu.com/portal/201308/21/164258kxkv33gxkwn333w3.png.thumb.jpg"></li>
+                    <li><img  title="招商银行信用卡中心2013校园招聘及实习生招聘" src="http://u.img.huxiu.com/portal/201308/21/115505yvy0mzmvknygv0rk.jpg.thumb.jpg"></li>
+
+                </ul>
+
+            </div>
+            <h5 class="new-info">
+                最新信息
+            </h5>
+            <div>
+                <ul class="unstyled">
+                    <volist name="data" id="vo">
+                        <li class="info-li-style">
+                            <a href="__APP__/Detail/index/id/{$vo.id}" class="media-cap"><img src="/img/photo_64.jpg"></a>
+                            <div>
+                                <div>
+                                    <a href="__APP__/Detail/index/id/{$vo.id}" class="media-body-title">{$vo.title}</a>
+                                    <span class="media-body-time">{$vo.date}</span>
+                                </div>
+                                <div class="media-body-address">{$vo.address} - {$vo.detailaddress}</div> 
+                                <div class="media-body-pay">{$vo.pay}元/天</div>
+                            </div>
+                        </li>
+                    </volist>
+                </ul>
+            </div>
+            <div class="pagination">
+                {$page}
+            </div>
+        </div>
+    </div>
+</div>
+</block>

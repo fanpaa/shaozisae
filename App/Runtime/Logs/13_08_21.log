@@ -1,0 +1,1815 @@
+[ 2013-08-21T00:04:19+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001706s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000207s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000441s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011323s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000671s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000446s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000268s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002117s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000530s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2013-08-21T00:04:20+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001786s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000210s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000445s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011854s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000814s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000481s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002322s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000599s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2013-08-21T00:04:41+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001817s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000210s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000458s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013117s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000893s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000523s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002431s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000546s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2013-08-21T00:04:43+08:00 ] 127.0.0.1 /index.php/index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001203s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001388s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+
+[ 2013-08-21T00:04:43+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000681s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001710s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000208s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000442s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011629s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011754s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000694s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000483s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002186s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000516s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2013-08-21T00:04:49+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001153s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001307s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001708s ]
+SQL: SELECT * FROM `szdb_publish` WHERE ( id=131 ) LIMIT 1   [ RunTime:0.000260s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008810s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008920s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000528s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000462s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000370s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002182s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000753s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000855s ]
+
+[ 2013-08-21T00:05:07+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001461s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001617s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001208s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001977s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000260s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000511s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010930s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000761s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000526s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000359s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002420s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000583s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2013-08-21T00:05:08+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001013s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001170s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000848s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001743s ]
+SQL: SELECT * FROM `szdb_publish` WHERE ( id=131 ) LIMIT 1   [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007284s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000500s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000514s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000590s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002378s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000594s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2013-08-21T00:05:17+08:00 ] 127.0.0.1 /index.php/index/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000861s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000992s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.001768s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_user` WHERE ( `username` = 'admin' ) AND ( `password` = 'admin' ) LIMIT 1   [ RunTime:0.000334s ]
+
+[ 2013-08-21T00:05:18+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000848s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002368s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000252s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013934s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000879s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000696s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002686s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000554s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000628s ]
+
+[ 2013-08-21T00:05:20+08:00 ] 127.0.0.1 /index.php/Detail/index/id/129
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000932s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001065s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001725s ]
+SQL: SELECT * FROM `szdb_publish` WHERE ( id=129 ) LIMIT 1   [ RunTime:0.000333s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009339s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000493s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000471s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000564s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002008s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000674s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2013-08-21T00:06:09+08:00 ] 127.0.0.1 /index.php/index/reg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000980s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001122s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000805s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.001682s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007418s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007532s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000459s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000443s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000511s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001870s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000546s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2013-08-21T00:07:33+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001796s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000443s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000514s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013071s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000886s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000516s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000292s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002474s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000610s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2013-08-21T00:07:34+08:00 ] 127.0.0.1 /index.php/index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001066s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+
+[ 2013-08-21T00:07:35+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000667s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001944s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000272s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000459s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010596s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000705s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000468s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000262s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002227s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000551s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2013-08-21T00:07:36+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001040s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001195s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000465s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000454s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001913s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000703s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2013-08-21T00:07:56+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001576s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001858s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000231s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000455s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014183s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000838s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000526s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000551s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002368s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000547s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000624s ]
+
+[ 2013-08-21T00:07:59+08:00 ] 127.0.0.1 /index.php/Detail/index/id/130
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001211s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001371s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008477s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008599s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000520s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000457s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000236s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002033s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000697s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2013-08-21T00:08:08+08:00 ] 127.0.0.1 /index.php/index/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001021s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.002430s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_user` WHERE ( `username` = 'admin' ) AND ( `password` = 'admin' ) LIMIT 1   [ RunTime:0.000295s ]
+
+[ 2013-08-21T00:08:08+08:00 ] 127.0.0.1 /index.php/index/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001321s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001481s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001168s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001897s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000250s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012909s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013035s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000832s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000573s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000682s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002651s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000662s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2013-08-21T00:08:12+08:00 ] 127.0.0.1 /index.php/Detail/index/id/125
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000776s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001695s ]
+SQL: SELECT * FROM `szdb_publish` WHERE ( id=125 ) LIMIT 1   [ RunTime:0.000281s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009638s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000483s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000462s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000234s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000608s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002061s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000698s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000804s ]
+
+[ 2013-08-21T00:08:19+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000960s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001112s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001786s ]
+SQL: SELECT * FROM `szdb_publish` WHERE ( id=131 ) LIMIT 1   [ RunTime:0.000267s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008346s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000459s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000442s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000264s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002014s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000741s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2013-08-21T00:15:15+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001835s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000389s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000532s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012134s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000978s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000604s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000368s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002770s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000589s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000668s ]
+
+[ 2013-08-21T00:15:17+08:00 ] 127.0.0.1 /index.php/index/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000983s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.001816s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_user` WHERE ( `username` = '' ) AND ( `password` = '' ) LIMIT 1   [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008087s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000534s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000426s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000331s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002047s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000615s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2013-08-21T00:15:35+08:00 ] 127.0.0.1 /index.php/index/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000790s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.001952s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_user` WHERE ( `username` = 'admin' ) AND ( `password` = 'admin' ) LIMIT 1   [ RunTime:0.000292s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008690s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008874s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000484s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000441s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000342s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000551s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002069s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000628s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000725s ]
+
+[ 2013-08-21T00:15:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001749s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000242s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012331s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000859s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000463s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000335s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000571s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002463s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000476s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2013-08-21T00:15:46+08:00 ] 127.0.0.1 /index.php/index/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000818s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000768s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.001732s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_user` WHERE ( `username` = '' ) AND ( `password` = '' ) LIMIT 1   [ RunTime:0.000289s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007656s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000568s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000465s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000382s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002291s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000586s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000682s ]
+
+[ 2013-08-21T22:45:28+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002862s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.008330s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.001686s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.001027s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017645s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000968s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000739s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000523s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003316s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000880s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2013-08-21T22:46:27+08:00 ] 127.0.0.1 /index.php/index/reg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001387s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001548s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `szdb_user` [ RunTime:0.004874s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007085s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000338s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000343s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001559s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000965s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001053s ]
+
+[ 2013-08-21T23:12:36+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002121s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000304s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000594s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011316s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000760s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000440s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000283s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002210s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000546s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000623s ]
+
+[ 2013-08-21T23:13:41+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002074s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000245s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000612s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010599s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010711s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000746s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000230s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002006s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000462s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2013-08-21T23:13:44+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001108s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001292s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008793s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000496s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000213s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001856s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000468s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2013-08-21T23:13:47+08:00 ] 127.0.0.1 /index.php/Detail/index/id/130
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000722s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.005544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005652s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000317s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000316s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000394s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001551s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000477s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2013-08-21T23:13:51+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000877s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001006s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.006832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006933s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000330s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000336s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001506s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000549s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2013-08-21T23:14:03+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002098s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000251s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000666s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013895s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014062s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000770s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000412s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000232s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002083s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000492s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2013-08-21T23:14:05+08:00 ] 127.0.0.1 /index.php/Detail/index/id/131
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000817s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008520s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000506s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000491s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000298s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002273s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000774s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2013-08-21T23:14:09+08:00 ] 127.0.0.1 /index.php/Detail/index/id/130
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000832s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.007311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007464s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000414s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000382s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001818s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000633s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000710s ]
+
+[ 2013-08-21T23:22:08+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002196s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000235s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012581s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012751s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000831s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000472s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000289s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002318s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000550s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000626s ]
+
+[ 2013-08-21T23:24:17+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001094s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002133s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000247s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000545s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011589s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011725s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000783s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000410s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000268s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000479s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002149s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000516s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000594s ]
+
+[ 2013-08-21T23:25:16+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001199s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001775s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000173s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000431s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011520s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000700s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000396s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000229s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001995s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000479s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000555s ]
+
+[ 2013-08-21T23:25:34+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001174s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001661s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000252s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000466s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012715s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000867s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000465s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000312s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000554s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002431s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000640s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2013-08-21T23:26:18+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000858s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001734s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000213s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000485s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011090s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000692s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000388s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000236s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000456s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002003s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000466s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2013-08-21T23:29:47+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001743s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000216s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000486s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011226s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011346s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000813s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000445s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000282s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000527s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002286s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000537s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2013-08-21T23:30:01+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001689s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000212s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000443s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011922s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000792s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000408s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002126s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000538s ]
+
+[ 2013-08-21T23:31:03+08:00 ] 127.0.0.1 /
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001674s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000174s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000424s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011616s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000735s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000392s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000230s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002044s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000484s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000561s ]
+
+[ 2013-08-21T23:31:05+08:00 ] 127.0.0.1 /index.php/index/index/p/4.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001111s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001288s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002481s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000244s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 60,20   [ RunTime:0.001306s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016112s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000673s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000380s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000228s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000452s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001950s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000510s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000613s ]
+
+[ 2013-08-21T23:31:31+08:00 ] 127.0.0.1 /index.php/index/index/p/4.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000750s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000972s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001729s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000182s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 60,20   [ RunTime:0.000660s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011793s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000711s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000430s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000252s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000543s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002172s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000635s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000735s ]
+
+[ 2013-08-21T23:32:18+08:00 ] 127.0.0.1 /index.php/index/index/p/4.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001082s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001227s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001737s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000199s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 60,20   [ RunTime:0.000623s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010913s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000726s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000425s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000282s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002146s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000600s ]
+
+[ 2013-08-21T23:32:20+08:00 ] 127.0.0.1 /index.php/index/index/p/2.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000799s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001650s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000185s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 20,20   [ RunTime:0.000521s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011055s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000667s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000412s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000236s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000468s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002011s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000472s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2013-08-21T23:32:37+08:00 ] 127.0.0.1 /index.php/index/index/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000916s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001164s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001711s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000204s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 0,20   [ RunTime:0.000439s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012092s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000742s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000399s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000230s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002031s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000468s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2013-08-21T23:32:40+08:00 ] 127.0.0.1 /index.php/index/index/p/7.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000978s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001710s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000240s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 120,20   [ RunTime:0.000756s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012200s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000654s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000355s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001894s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000522s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000601s ]
+
+[ 2013-08-21T23:32:42+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000746s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001674s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000838s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012487s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000737s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000408s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000443s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002043s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2013-08-21T23:35:47+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001291s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001486s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001770s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000226s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000783s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013139s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000808s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000472s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000278s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000531s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002333s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000840s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000975s ]
+
+[ 2013-08-21T23:36:14+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001629s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001882s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001782s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000170s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011446s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011564s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000702s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000402s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001986s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000460s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2013-08-21T23:41:25+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000827s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001706s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000196s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000763s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012640s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000782s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000429s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000490s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002191s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000519s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2013-08-21T23:41:33+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001348s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001504s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001746s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000220s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000747s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012055s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000768s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000432s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000278s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000497s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002194s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000510s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2013-08-21T23:41:34+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000744s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001762s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000209s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000754s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011512s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011630s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000689s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000360s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001932s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2013-08-21T23:41:34+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000725s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001693s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000220s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000770s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012297s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000708s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001972s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000460s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2013-08-21T23:41:35+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001927s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002142s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000817s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001815s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000185s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000795s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011160s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000696s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000381s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001958s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000460s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2013-08-21T23:41:35+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000728s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000859s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001629s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000179s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000720s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010339s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000722s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000223s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001959s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000459s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2013-08-21T23:41:35+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000944s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001081s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001717s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000181s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000726s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012681s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000738s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000384s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002007s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000467s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2013-08-21T23:41:35+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000685s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001583s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000178s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000808s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011587s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011718s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000656s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000387s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001928s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000457s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2013-08-21T23:41:35+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000792s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001718s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000186s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000728s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011850s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000668s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000222s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001913s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000455s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000532s ]
+
+[ 2013-08-21T23:41:36+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000787s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001815s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000212s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000743s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011414s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000723s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000359s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000441s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001957s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000463s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2013-08-21T23:41:36+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000684s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000803s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001715s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000178s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000727s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011995s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012141s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000694s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000385s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000274s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002040s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000503s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2013-08-21T23:41:36+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000950s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001070s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001681s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000182s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000719s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011024s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011130s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000731s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000361s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000221s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001971s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000458s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2013-08-21T23:41:36+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000650s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001791s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000157s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000693s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010118s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000723s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000362s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000223s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001959s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000455s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000533s ]
+
+[ 2013-08-21T23:41:36+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000790s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001713s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000163s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000687s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011206s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000688s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000362s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001927s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000460s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000535s ]
+
+[ 2013-08-21T23:44:10+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000998s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001708s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000242s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000915s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011855s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011976s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000776s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000432s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000331s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000524s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002302s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000723s ]
+
+[ 2013-08-21T23:44:17+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001201s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001388s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001775s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000221s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000762s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012062s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012187s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000740s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000388s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002010s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000462s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2013-08-21T23:44:39+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000633s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000532s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001711s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000712s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009688s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000614s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000338s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000209s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001802s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000489s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2013-08-21T23:46:27+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001926s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002188s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001701s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000202s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000739s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012260s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000752s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000415s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000492s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002151s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000512s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2013-08-21T23:49:59+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001074s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001236s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001831s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000281s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000824s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011893s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000746s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000497s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000367s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002418s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000578s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2013-08-21T23:51:48+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000987s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000637s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001857s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000203s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011852s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000741s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000366s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000222s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001983s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000460s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000536s ]
+
+[ 2013-08-21T23:54:10+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001110s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001244s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000825s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001768s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000236s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000768s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012663s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000824s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000433s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000279s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002254s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000513s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2013-08-21T23:55:43+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000916s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.002048s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000726s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012017s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012149s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000733s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000386s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002013s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000537s ]
+
+[ 2013-08-21T23:56:36+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001031s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001906s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000225s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000857s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012457s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000786s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000443s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000291s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000501s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002238s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000514s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000592s ]
+
+[ 2013-08-21T23:58:22+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001151s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001340s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001898s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000238s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.001314s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011316s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000736s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000436s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000255s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000740s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002504s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000574s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2013-08-21T23:58:48+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000912s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000732s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001697s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000255s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000904s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014184s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001459s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000515s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000378s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000544s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003265s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000640s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2013-08-21T23:59:34+08:00 ] 127.0.0.1 /index.php/index/index/p/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000917s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `szdb_publish` [ RunTime:0.001746s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 8 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `szdb_publish` LIMIT 1   [ RunTime:0.000215s ]
+NOTIC: [8] Undefined variable: map C:\wamp\www\app\Lib\Action\IndexAction.class.php 第 12 行.
+SQL: SELECT * FROM `szdb_publish` ORDER BY date desc LIMIT 100,20   [ RunTime:0.000765s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012208s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012342s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000755s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000519s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000287s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002267s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000466s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000543s ]
+
